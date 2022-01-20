@@ -1,0 +1,4 @@
+name: Bank
+version: '${project.version}'
+main: eu.tetemh.bank.Bank
+api-version: 1.18
